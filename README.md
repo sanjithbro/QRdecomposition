@@ -23,6 +23,8 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 
 ## Program:
 ### Gram-Schmidt Method
+# Developed by: your name:R.Sanjith
+# RegisterNumber: 212223230191
 ```python
 Program to QR decomposition using the Gram-Schmidt method
 Developed by: your name:R.Sanjith
